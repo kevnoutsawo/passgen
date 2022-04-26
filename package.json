@@ -9,8 +9,8 @@
   "author": "Kevin Noutsawo",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.0.1",
-    "clipboardy": "^3.0.0",
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
     "commander": "^9.2.0"
   }
 }
