@@ -1,4 +1,5 @@
 const program = require('commander')
+const createPassword = require('./utils/createPassword')
 const log = console.log
 
 program.version('1.0.0').description('Simple Password Generator')
